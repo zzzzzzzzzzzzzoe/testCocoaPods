@@ -1,5 +1,5 @@
 > ## 这是一个标题。
-> [![](https://img.shields.io/badge/haha-zoe-000000.svg)]((https://www.baidu.com))
+> [![](https://img.shields.io/badge/haha-zoe-000000.svg)](https://www.baidu.com)
 > 
 > 1.   这是第一行列表项。
 > 2.   这是第二行列表项。
